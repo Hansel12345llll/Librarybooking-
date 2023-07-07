@@ -1,14 +1,11 @@
-<!--Web Development 2 Assingment-->
-<!--Author: Gabriel Grimberg.-->
-<!--Website: Library Website-->
-<!--Page: Search-->
+
 
 <!DOCTYPE html>
 <html>
 	<head>
 	<meta charset="utf-8">
 	    <!--Linking to CSS-->
-		<link type="text/css" rel="stylesheet" href="Main-Style.css"/>
+		<link type="text/css" rel="stylesheet" href="SE3.css"/>
 		<title>Search</title>
 	</head>
 	
@@ -20,11 +17,13 @@
 	<!--Creating the Navigator-->
 			<div id="menu">
 			<ul class="nav">
-				<li><a href="Main-Page.html">Welcome</a></li>
-				<li><a href="Search.php">Search</a></li>
+			<li><a href="Home.html">Welcome</a></li>
 				<li><a href="Reservation.php">Reserve</a></li>
 				<li><a href="Register.php">Register</a></li>
 				<li><a href="Login.php">My Account</a></li>
+				<li><a href="Booking.html">Booking</a></li>
+				<li><a href="search.php">Search</a></li>
+         
 			</ul>
 			</div>
 		</div>
